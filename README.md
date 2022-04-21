@@ -4,6 +4,6 @@ I won't talk much, as obviously I am a developer (3.5 years), at the moment it i
 <img src="./cat.gif" alt="Like me" width="300" height="300">
 
 - 📫 How to reach me: https://t.me/TorteDeLinii
-- ⚡ Fun fact: I love pizza with cheese and I will also become a team leader
+- ⚡ Fun fact: I love pizza with cheese and my goal is to become a team leader
 
 
